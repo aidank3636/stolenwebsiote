@@ -9,16 +9,16 @@ import type { BaseLayoutProps } from "fumadocs-ui/layouts/shared"
  */
 export const baseOptions: BaseLayoutProps = {
   nav: {
-    title: "nikiv.dev",
+    title: "Aidan Kleinhenz",
   },
   links: [
     {
-      text: "GitHub",
-      url: "https://github.com/nikitavoloboev",
+      text: "LinkedIn",
+      url: "www.linkedin.com/in/aidan-kleinhenz-b62210234",
     },
     {
       text: "X",
-      url: "https://x.com/nikitavoloboev",
+      url: "https://x.com/",
     },
   ],
 }
