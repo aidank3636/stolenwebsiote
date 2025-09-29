@@ -10,17 +10,17 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "nikiv.dev | Personal website, docs",
-    template: "%s | nikiv.dev",
+    default: "Aidan Kleinhenz | Personal Porfolio",
+    template: "%s | aidankleinhenz.com",
   },
   description: "Personal website, docs",
   metadataBase: new URL("https://nikiv.dev"),
   // TODO: not sure if this is applied
   openGraph: {
-    title: "nikiv.dev",
-    description: "Personal website, docs",
-    url: "https://nikiv.dev",
-    siteName: "nikiv.dev",
+    title: "aidankleinhenz.com",
+    description: "Personal website, portfolio",
+    url: "https://aidankleinhenz.com/",
+    siteName: "aidankleinhenz.com",
     locale: "en_US",
     type: "website",
   },
@@ -29,13 +29,8 @@ export const metadata: Metadata = {
     follow: true,
   },
   keywords: [
-    "nikiv",
-    "nikita voloboev",
-    "personal website",
-    "docs",
-    "looking back",
-    "solbond",
-    "learn anything",
+    "Aidan Kleinhenz",
+ 
   ],
 }
 
